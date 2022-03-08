@@ -3,3 +3,6 @@ chmod +x update-server
 
 wget https://raw.githubusercontent.com/Hartonek/linux-perforce-installer/master/install-perforce
 chmod +x install-perforce
+
+wget https://raw.githubusercontent.com/Hartonek/linux-perforce-installer/master/install-java-and-jenkins
+chmod +x install-java-and-jenkins
