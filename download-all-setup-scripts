@@ -1,0 +1,5 @@
+wget https://raw.githubusercontent.com/Hartonek/linux-perforce-installer/master/update-server
+chmod +x update-server
+
+wget https://raw.githubusercontent.com/Hartonek/linux-perforce-installer/master/install-perforce
+chmod +x install-perforce
